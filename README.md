@@ -88,5 +88,11 @@ cabo-verde-mercado-trabalho/
 ├── powerbi/dashboard.pbix, tema_cabo_verde.json
 ```
 
+## Dashboard 
+![Visão Geral](Dashboard/images/visao%20geral.png)
+![Evolução Temporal](Dashboard/images/correlation%20analise.png)
+![Insights](Dashboard/images/temporal%20series.png)
+
+
 ---
 *Author: Rodrigo Hendrick Monteiro Santos Fortes ·*

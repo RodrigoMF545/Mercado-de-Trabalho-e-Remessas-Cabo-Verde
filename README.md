@@ -1,8 +1,6 @@
 
 ## Labour Market and Diaspora Remittances in Cabo Verde (1980–2025)
 
-Portfolio project in data analysis — Excel · SQL · Python
-
 ---
 
 ## 1. Objective
